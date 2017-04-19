@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">GooAccLogin</string>
+    <string name="goo_login_details">Google Details</string>
+    <string name="login_acc">Đăng nhập để thêm tài khoản khác</string>
+    <string name="email_hint">Nhập email của bạn</string>
+    <string name="next">Tiếp theo</string>
+    <string name="find_acc"><u>Tìm tài khoản của tôi</u></string>
+    <string name="create_acc"><u>Tạo tài khoản</u></string>
+    <string name="products_acc">Một tài khoản Google để truy cập mọi sản phẩm của Google</string>
+</resources>

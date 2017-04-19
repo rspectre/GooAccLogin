@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="next_color_button">#4A8CF5</color>
+    <color name="background_mid_layout">#F7F7F7</color>
+    <color name="edit_email_border">#DBDBDB</color>
+    <color name="hint_color">#A9A9A9</color>
+    <color name="background_white">#FFFFFF</color>
+    <color name="create_acc_color">#4A8CF5</color>
+    <color name="find_acc_color">#4A8CF5</color>
+    <color name="total_mid_layout">#CDCDCD</color>
+    <color name="mid_mid_layout">#B6B6B6</color>
+    <color name="mid_email_layout">#C1C1C1</color>
+</resources>
